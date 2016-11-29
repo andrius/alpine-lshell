@@ -1,5 +1,5 @@
 # vim:set ft=dockerfile:
-FROM gliderlabs/alpine:latest
+FROM gliderlabs/alpine:edge
 
 MAINTAINER Andrius Kairiukstis <andrius@kairiukstis.com>
 
